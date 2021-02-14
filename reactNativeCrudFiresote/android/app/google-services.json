@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "9719725248",
+    "project_id": "reactnativefirebase-461ed",
+    "storage_bucket": "reactnativefirebase-461ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9719725248:android:a8c0a6d3da706a8f780125",
+        "android_client_info": {
+          "package_name": "com.ricardopeleira.reactnativecrudfiresote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9719725248-fm14tgbll41lujpoef6fkbbicrpiv3r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ricardopeleira.reactnativecrudfiresote",
+            "certificate_hash": "59eed5050ae114f5179e197bbb565cca929a4928"
+          }
+        },
+        {
+          "client_id": "9719725248-d06slv2v7qpov64j20824st12v66b7s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIu8L1DjcMhFl4zp3r_2YvAnrqMt1tQ6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9719725248-d06slv2v7qpov64j20824st12v66b7s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

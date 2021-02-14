@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "_internal": {
+      "isDebug": false,
+      "projectRoot": "/Users/ricardopeleira/reactNativeCrudFiresote",
+      "dynamicConfigPath": null,
+      "staticConfigPath": null,
+      "packageJsonPath": "/Users/ricardopeleira/reactNativeCrudFiresote/package.json"
+    },
+    "name": "reactNativeCrudFiresote",
+    "slug": "reactnativecrudfiresote",
+    "version": "1.0.0",
+    "sdkVersion": "40.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.ricardopeleira.reactnativecrudfiresote"
+    },
+    "ios": {
+      "bundleIdentifier": "com.ricardopeleira.reactnativecrudfiresote"
+    }
+  }
+}

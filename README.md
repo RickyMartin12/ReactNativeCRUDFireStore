@@ -45,9 +45,9 @@ In Linux
 
 - Add Firebase to your Android app on Firebase Project 'ReactNativeFirebase'. Don’t forget to download the configuration file and keep clicking on next until the process is done.
 
-![Captura de ecrã 2021-02-15, às 23 28 41](https://user-images.githubusercontent.com/9846274/108002713-5e4afa80-6fe8-11eb-9e49-e7888607a4ac.png)
+![Captura de ecrã 2021-02-15, às 22 16 40](https://user-images.githubusercontent.com/9846274/108002715-5ee39100-6fe8-11eb-9662-db66d95af6d5.png)
 
-![Captura de ecrã 2021-02-15, às 23 29 22](https://user-images.githubusercontent.com/9846274/108002710-5d19cd80-6fe8-11eb-87f7-33f5cc24f442.png)
+![Captura de ecrã 2021-02-15, às 22 27 52](https://user-images.githubusercontent.com/9846274/108002716-5ee39100-6fe8-11eb-9010-8584f5bf24ee.png)
 
 #### Add Web App on Firebase project
 
@@ -55,9 +55,9 @@ In Linux
 
 - Follow the instructions add firebase project on your android app
 
-![Captura de ecrã 2021-02-15, às 22 16 40](https://user-images.githubusercontent.com/9846274/108002715-5ee39100-6fe8-11eb-9662-db66d95af6d5.png)
+![Captura de ecrã 2021-02-15, às 23 28 41](https://user-images.githubusercontent.com/9846274/108002713-5e4afa80-6fe8-11eb-9e49-e7888607a4ac.png)
 
-![Captura de ecrã 2021-02-15, às 22 27 52](https://user-images.githubusercontent.com/9846274/108002716-5ee39100-6fe8-11eb-9010-8584f5bf24ee.png)
+![Captura de ecrã 2021-02-15, às 23 29 22](https://user-images.githubusercontent.com/9846274/108002710-5d19cd80-6fe8-11eb-87f7-33f5cc24f442.png)
 
 ## Adding Native Code
 

@@ -16,19 +16,19 @@
 
 In Mac OS X
 
-```
+```java
     sdk.dir = /Users/<YOUR_USERNAME>/Library/Android/sdk
 ```
 
 In Windows
 
-```
+```java
     sdk.dir= C:\\Users\\<YOUR_USERNAME>\\AppData\\Local\\Android\\sdk
 ```
 
 In Linux
 
-```
+```java
     sdk.dir= /home/USERNAME/Android/Sdk
 ```
 
@@ -39,6 +39,33 @@ In Linux
 ![react-native-firebase-8987-01](https://user-images.githubusercontent.com/9846274/107993308-3486d900-6fd2-11eb-8906-96d7d61be2a8.png)
 ![Captura de ecrã 2021-02-15, às 21 13 54](https://user-images.githubusercontent.com/9846274/107993643-d7d7ee00-6fd2-11eb-8168-2356c10d6d62.png)
 
+### Firebase project new features
+
+#### Add Android App on Firebase project
+
+- Add Firebase to your Android app on Firebase Project 'ReactNativeFirebase'. Don’t forget to download the configuration file and keep clicking on next until the process is done.
+
+![Captura de ecrã 2021-02-15, às 23 28 41](https://user-images.githubusercontent.com/9846274/108002713-5e4afa80-6fe8-11eb-9e49-e7888607a4ac.png)
+
+![Captura de ecrã 2021-02-15, às 23 29 22](https://user-images.githubusercontent.com/9846274/108002710-5d19cd80-6fe8-11eb-87f7-33f5cc24f442.png)
+
+#### Add Web App on Firebase project
+
+- Add Firebase on Web Project onn Firebase Project 'ReactNativeFirebase'
+
+- Follow the instructions add firebase project on your android app
+
+![Captura de ecrã 2021-02-15, às 22 16 40](https://user-images.githubusercontent.com/9846274/108002715-5ee39100-6fe8-11eb-9662-db66d95af6d5.png)
+
+![Captura de ecrã 2021-02-15, às 22 27 52](https://user-images.githubusercontent.com/9846274/108002716-5ee39100-6fe8-11eb-9010-8584f5bf24ee.png)
+
+## Adding Native Code
+
+This project can be run from a web browser or the Expo client app. You may find that you want to add more native code later on. You can do this by ejecting the project and rebuilding it yourself.
+
+- Run `yarn eject` ou `npm run eject` to create the native projects such as: Android, IOS e Web
+- You can still run your project in the web browser or Expo client, you just won't be able to access any new native modules you add.
+
 - Run npm on web / android / ios
 
 ```bash
@@ -47,20 +74,7 @@ In Linux
    $ npm run web
 ```
 
-## Adding Native Code
-
-This project can be run from a web browser or the Expo client app. You may find that you want to add more native code later on. You can do this by ejecting the project and rebuilding it yourself.
-
-- Run `yarn eject` to create the native projects.
-- You can still run your project in the web browser or Expo client, you just won't be able to access any new native modules you add.
-
 ## Publishing
 
 - Deploy the native app to the App store and Play store using this guide: [Deployment](https://docs.expo.io/distribution/app-stores/).
 - Deploy the website using this guide: [Web deployment](https://docs.expo.io/distribution/publishing-websites/).
-
-## 📝 Notes
-
-- Learn more about [Universal React](https://docs.expo.io/).
-- See what API and components are [available in the React runtimes](https://docs.expo.io/versions/latest/).
-- Find out more about developing apps and websites: [Guides](https://docs.expo.io/guides/).

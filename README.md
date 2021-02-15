@@ -53,7 +53,7 @@ In Linux
 
 - Add Firebase on Web Project onn Firebase Project 'ReactNativeFirebase'
 
-- Follow the instructions add firebase project on your android app
+- Follow the instructions add firebase project on web app
 
 ![Captura de ecrã 2021-02-15, às 23 28 41](https://user-images.githubusercontent.com/9846274/108002713-5e4afa80-6fe8-11eb-9e49-e7888607a4ac.png)
 

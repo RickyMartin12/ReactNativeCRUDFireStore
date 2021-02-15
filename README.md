@@ -4,11 +4,32 @@
 
 ### First Install the packages on folder reactNativeCrudFirestore
 
-#### go to the folder 'reactNativeCrudFiresote' using the command cd in windows, mac and linux
+- Go to the folder 'reactNativeCrudFiresote' using the command cd in windows, mac and linux
 
 ```bash
       Air-de-Ricardo:ReactNativeCRUDFireStore ricardopeleira$ cd reactNativeCrudFiresote
       $MacBook-Air-de-Ricardo:reactNativeCrudFiresote ricardopeleira$
+```
+
+- Add a new file on ReactNativeCRUDFireStore/android/local.properties
+- Set the path on your android sdk
+
+In Mac OS X
+
+```
+    sdk.dir = /Users/<YOUR_USERNAME>/Library/Android/sdk
+```
+
+In Windows
+
+```
+    sdk.dir= C:\\Users\\<YOUR_USERNAME>\\AppData\\Local\\Android\\sdk
+```
+
+In Linux
+
+```
+    sdk.dir= /home/USERNAME/Android/Sdk
 ```
 
 - Install packages with `yarn` or `npm install`.

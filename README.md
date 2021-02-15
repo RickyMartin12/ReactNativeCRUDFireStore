@@ -36,8 +36,8 @@ In Linux
 
 - Type the this url: [console.firebase.google.com](https://console.firebase.google.com/) on your browser and then click on “Create a project”.
 
-| ![react-native-firebase-8987-01](https://user-images.githubusercontent.com/9846274/107993308-3486d900-6fd2-11eb-8906-96d7d61be2a8.png) | ![Captura de ecrã 2021-02-15, às 21 13 54](https://user-images.githubusercontent.com/9846274/107993643-d7d7ee00-6fd2-11eb-8168-2356c10d6d62.png)
-|
+![react-native-firebase-8987-01](https://user-images.githubusercontent.com/9846274/107993308-3486d900-6fd2-11eb-8906-96d7d61be2a8.png)
+![Captura de ecrã 2021-02-15, às 21 13 54](https://user-images.githubusercontent.com/9846274/107993643-d7d7ee00-6fd2-11eb-8168-2356c10d6d62.png)
 
 - Run npm on web / android / ios
 

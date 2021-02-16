@@ -59,6 +59,18 @@ In Linux
 
 ![Captura de ecrã 2021-02-15, às 23 29 22](https://user-images.githubusercontent.com/9846274/108002710-5d19cd80-6fe8-11eb-87f7-33f5cc24f442.png)
 
+#### Add Cloud Firestine on Firebase Project
+
+- Create a new cloud firestone
+
+- Next, click on “Develop > Database” menu. Here, we have to create Cloud Firestore database so click on “Create database” button and remember for the development purpose we are setting up the security rules for Cloud Firestore in test mode.
+
+![react-native-crud-9020-05](https://user-images.githubusercontent.com/9846274/108003413-a4a15900-6fea-11eb-87ae-a1dad7e47cc1.jpg)
+
+- Next, create collection in Cloud Firestore. Let’s create ‘users’ collection with name, email and mobile values.
+
+![Captura de ecrã 2021-02-16, às 00 04 50](https://user-images.githubusercontent.com/9846274/108003409-9f440e80-6fea-11eb-879d-f2f6a411b136.png)
+
 ## Adding Native Code
 
 This project can be run from a web browser or the Expo client app. You may find that you want to add more native code later on. You can do this by ejecting the project and rebuilding it yourself.
@@ -73,6 +85,20 @@ This project can be run from a web browser or the Expo client app. You may find 
    $ npm run ios
    $ npm run web
 ```
+
+### Run React Native in Android App
+
+- List Users
+
+![Screenshot_2021-02-15-23-56-48-078_com ricardopeleira reactnativecrudfiresote](https://user-images.githubusercontent.com/9846274/108003665-5ccf0180-6feb-11eb-8128-6595b09bf4ee.jpg)
+
+- Add a new User
+
+![Screenshot_2021-02-15-23-58-00-050_com ricardopeleira reactnativecrudfiresote](https://user-images.githubusercontent.com/9846274/108003670-5e98c500-6feb-11eb-9159-efb47ce2eea4.jpg)
+
+- Update and Delete an user
+
+![Screenshot_2021-02-15-23-58-36-079_com ricardopeleira reactnativecrudfiresote](https://user-images.githubusercontent.com/9846274/108003672-5f315b80-6feb-11eb-8f8d-2aacc8594111.jpg)
 
 ## Publishing
 
